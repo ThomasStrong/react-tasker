@@ -43,6 +43,8 @@ npm start
 npm run server
 ```
 
+- **This is necessary to load the mock tasks.**
+
 ## Technologies
 
 - JavaScript
