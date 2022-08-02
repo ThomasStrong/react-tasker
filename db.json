@@ -17,6 +17,24 @@
       "day": "Thursday Feb. 6, 2:30pm",
       "reminder": true,
       "id": 5
+    },
+    {
+      "text": "Doctor's Appt.",
+      "day": "Friday, July 2",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Grocery run",
+      "day": "Thursdays",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Movie Night",
+      "day": "Saturday 9/8/22  9pm",
+      "reminder": true,
+      "id": 8
     }
   ]
 }
